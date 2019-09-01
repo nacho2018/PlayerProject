@@ -15,6 +15,7 @@ public class TestPlayer {
 		player1.setGame("Game of Thrones");
 		
 		System.out.println("Info on player1: " + player1.getName() + ", " + player1.getGame() + ", " + player1.getAge());
+		System.out.println("Hey, It's pushed");
 
 	}
 
